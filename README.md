@@ -6,4 +6,6 @@ La Web App se mantiene alojada en Google Apps Script. Este directorio contiene s
 
 Web App: https://script.google.com/macros/s/AKfycbw18GLCBF91Z8ymS_zrzrQd23W3I2Pcw0A4yHW6lK9Vok0TnDbHJtQU7uXcaHDGlwP-/exec
 
+Sitio público: https://misaeldemo.github.io/misael-catalogo-demo/
+
 Si el contenido incrustado no se carga, `index.html` incluye un enlace alternativo para abrir la Web App directamente.
